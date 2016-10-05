@@ -1,0 +1,23 @@
+Document Archive
+===
+
+[addendum to Rulebook.pdf](./documents/addendum to Rulebook.pdf)
+[Alliance_of_Law.doc](./documents/Alliance_of_Law.doc)
+[bardbook.doc](./documents/bardbook.doc)
+[BarudDuin1.2.pdf](./documents/BarudDuin1.2.pdf)
+[Bhurtok_Corpora_wordMS.doc](./documents/Bhurtok_Corpora_wordMS.doc)
+[Bhurtok_Rulebook_v6.doc](./documents/Bhurtok_Rulebook_v6.doc)
+[BYLAWS_Barad_Duin_2003.DOC](./documents/BYLAWS_Barad_Duin_2003.DOC)
+[Chimera_Alliance_Rule_Book_v3-01.pdf](./documents/Chimera_Alliance_Rule_Book_v3-01.pdf)
+[ChroniclesBaradDuin.pdf](./documents/ChroniclesBaradDuin.pdf)
+[CRWXIV RULE-BOOK.pdf](./documents/CRWXIV RULE-BOOK.pdf)
+[Dec_11_Rulebook.pdf](./documents/Dec_11_Rulebook.pdf)
+[Fitz_s_Ultralight_Tutorial.pdf](./documents/Fitz_s_Ultralight_Tutorial.pdf)
+[Fitz_tunic_tutorial.pdf](./documents/Fitz_tunic_tutorial.pdf)
+[HFS_IKC_Awards_Standards_Document.pdf](./documents/HFS_IKC_Awards_Standards_Document.pdf)
+[HFSRP_Heralding.doc](./documents/HFSRP_Heralding.doc)
+[hfsrules.doc](./documents/hfsrules.doc)
+[release.doc](./documents/release.doc)
+[Shadowmist Rulebook 2011 Concise.doc](./documents/Shadowmist Rulebook 2011 Concise.doc)
+[The_Rules_of_Jugging.doc](./documents/The_Rules_of_Jugging.doc)
+[woa-shield-2.pdf](./documents/woa-shield-2.pdf)
